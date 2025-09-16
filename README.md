@@ -1,6 +1,5 @@
 # waste-classifier
-Introduction 
-With the escalating global waste crisis and increased emphasis on sustainability, accurate and 
+Introduction: With the escalating global waste crisis and increased emphasis on sustainability, accurate and 
 efficient waste sorting is critical for improving recycling rates and reducing landfill overflow. 
 This project explores the use of deep learning and machine learning models to classify waste 
 images into nine distinct categories using the RealWaste Image Classification dataset. By 
