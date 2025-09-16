@@ -1,5 +1,6 @@
-# waste-classifier
-Introduction: With the escalating global waste crisis and increased emphasis on sustainability, accurate and 
+# RealWaste Trash Images Classification 
+# Introduction
+With the escalating global waste crisis and increased emphasis on sustainability, accurate and 
 efficient waste sorting is critical for improving recycling rates and reducing landfill overflow. 
 This project explores the use of deep learning and machine learning models to classify waste 
 images into nine distinct categories using the RealWaste Image Classification dataset. By 
@@ -14,3 +15,13 @@ applications. This project was motivated by two primary concerns: Environmental 
 Disproportionate exposure to pollution in marginalized communities due to mismanaged waste. 
 Practical AI Applications: Applying different machine learning techniques to tackle real-world 
 sustainability challenges
+
+# Research Questions
+Can we accurately classify waste images into their respective categories using deep 
+learning? 
+
+Which CNN architectures yield the best performance for this multi-class classification 
+task? 
+
+How does the performance of CNN vs . KNN models compare when classifying waste 
+images?
